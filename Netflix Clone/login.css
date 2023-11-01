@@ -1,0 +1,62 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.main-bg-image
+{
+background-image: url(images/oturumac.jpg);
+height:100%;
+
+}
+
+.main-bg-color{
+  background-color: rgb(0, 0, 0,0.5);
+  height: 100%;
+}
+img{
+  height: 150px
+}
+
+.box-bg{
+  background-color:rgba(0,0,0,.65);
+  
+
+
+}
+
+.box-size{
+    width: 450px; height: 660px !important;
+    
+}
+
+
+a:hover{
+    text-decoration: underline !important;
+}
+.back-color
+{
+    background-color: (0,0,0,.75) !important;
+
+}
+
+
+.font-box
+{font-size: 32px;}
+
+.font-checkbox
+{font-size: 16px;
+font-weight: lighter;
+}
+.font-son
+{font-size: 13px;}
+
+.font-color1
+{
+  color: #5a5858; 
+font-size: 14px;
+text-decoration: none;}
+
